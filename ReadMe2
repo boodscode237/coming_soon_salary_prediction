@@ -1,0 +1,10 @@
+Создаем на имеющемся датасете (что сразу предлагал) рекомендации зарплат на основе лин регрессии по атрибутам: профессия, график работы и регион.
+
+Профессия это эммбединг, полученный предобученным FastText (нужно поэкспериментировать с разными размерностями) 
+https://colab.research.google.com/drive/1b0XsG75FfBjul3DR9zuCJCl6mcOHDWpK?usp=sharing
+
+График работы кодируем OneHotEncoding
+https://colab.research.google.com/drive/1nd2MUrgBWbVjjGULj7gWZ2IcfYwJnANw?usp=sharing
+
+Регион в безлайне тоже OneHotEncoding (береем топ-5 регионов из поля city_id)
+https://colab.research.google.com/drive/118N3LcLiBWVdPMgaDhUrFhwHiMpemcKf?usp=sharing
