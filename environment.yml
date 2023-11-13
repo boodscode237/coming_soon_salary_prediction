@@ -1,0 +1,11 @@
+name: recsys
+channels:
+  - conda-forge
+dependencies:
+  - fasttext
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - scikit-learn
+    - scipy
