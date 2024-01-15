@@ -1,3 +1,7 @@
+# [Веб-сайт](https://comingsoon07.netlify.app/)
+
+
+
 # Предсказание заработной платы (трек от "Работа.ру")
 
 ![intro](./logs/intro.png)
